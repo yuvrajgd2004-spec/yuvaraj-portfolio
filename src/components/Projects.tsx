@@ -1,11 +1,8 @@
 import { motion } from 'framer-motion'
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from './ui/card'
-import { Button } from './ui/button'
 import { 
   Sparkles, 
-  Zap, 
-  Database, 
-  Globe, 
+  Zap,  
   Code, 
   Layers,
   TrendingUp,

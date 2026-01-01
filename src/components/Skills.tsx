@@ -1,14 +1,9 @@
 import { motion } from 'framer-motion'
 import { Card, CardContent, CardHeader, CardTitle } from './ui/card'
 import { 
-  BarChart3, 
-  TrendingUp, 
-  FileSpreadsheet, 
-  Database,
+  BarChart3,   
   Code,
-  Users,
-  Lightbulb,
-  MessageSquare
+  Users
 } from 'lucide-react'
 
 const Skills = () => {
